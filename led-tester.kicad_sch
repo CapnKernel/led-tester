@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (date "May 4, 2023")
-    (rev "1.0e")
+    (date "2023-05-11")
+    (rev "1.0f")
   )
 
   (lib_symbols
@@ -2353,10 +2353,10 @@
     (pin "D7" (uuid f5368c8c-70d6-49f5-a1e5-0dbfc032de5d))
     (pin "D8" (uuid dfb25f07-d983-4983-99a1-2e5f5e712198))
     (pin "D9" (uuid 313dbdbe-79bf-4b23-8de4-329187b7c370))
-    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5148))
-    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5148))
-    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b350b))
-    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b350b))
+    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5149))
+    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5149))
+    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b350c))
+    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b350c))
     (pin "VIN" (uuid 5a359ea4-0fb7-4609-a7fd-650380ccc62a))
     (instances
       (project "led-tester"
