@@ -1403,15 +1403,18 @@
 
   (no_connect (at 151.13 64.77) (uuid 09aa5ce1-773b-4b7a-bf6c-8d8898b0d4a0))
   (no_connect (at 107.95 80.01) (uuid 0d8d84de-6294-4a0d-96d5-b2a0e00bf0c7))
+  (no_connect (at 146.05 177.165) (uuid 167e28c2-4656-4cea-8ecd-b865ebf3acfb))
   (no_connect (at 151.13 80.01) (uuid 21a4c5da-a611-439d-9e32-0e6b08699d26))
   (no_connect (at 151.13 77.47) (uuid 224f6180-9240-4fd2-bfbf-c3a03bce35af))
   (no_connect (at 92.71 69.85) (uuid 316ce7ba-6535-43c0-bfd6-d351ff59b9b5))
   (no_connect (at 92.71 67.31) (uuid 46b77a7e-a7d8-475a-ba5b-22c487e9f792))
   (no_connect (at 151.13 62.23) (uuid 89db3258-d89f-4df8-9bec-5b35c73677e1))
   (no_connect (at 151.13 59.69) (uuid 8e10f143-809a-4943-8d6e-fd26af822767))
+  (no_connect (at 146.05 172.085) (uuid 8f6d91f5-6ee1-4db9-b723-982211ba38f7))
   (no_connect (at 92.71 49.53) (uuid 9d8c7d09-bba2-44ea-9d03-437fef933b6a))
   (no_connect (at 151.13 44.45) (uuid bd08c73b-a04a-4159-a2b8-37abb4fd9e61))
   (no_connect (at 151.13 69.85) (uuid c62cae9c-7cf8-480d-a48b-7be7150bdefc))
+  (no_connect (at 161.29 174.625) (uuid c65e9638-0190-421e-8e24-ee4f53f16dd3))
   (no_connect (at 92.71 74.93) (uuid eecef00a-4acf-446b-9001-426f8f003abf))
   (no_connect (at 151.13 57.15) (uuid fef14184-1c2b-44ce-b3f1-8651527c5c4f))
 
@@ -3403,10 +3406,10 @@
     (pin "D7" (uuid f5368c8c-70d6-49f5-a1e5-0dbfc032de5d))
     (pin "D8" (uuid dfb25f07-d983-4983-99a1-2e5f5e712198))
     (pin "D9" (uuid 313dbdbe-79bf-4b23-8de4-329187b7c370))
-    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5152))
-    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5152))
-    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b3515))
-    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b3515))
+    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5153))
+    (pin "GND" (uuid 196a5756-4949-4c1b-aef1-8862a22f5153))
+    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b3516))
+    (pin "RESET" (uuid f24f379a-edb8-431e-97ae-8f54d96b3516))
     (pin "VIN" (uuid 5a359ea4-0fb7-4609-a7fd-650380ccc62a))
     (instances
       (project "led-tester"
